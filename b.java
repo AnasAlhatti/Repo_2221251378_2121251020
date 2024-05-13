@@ -1,1 +1,2 @@
 CHANG
+class B {}
