@@ -1,2 +1,4 @@
-CHANG
-class B {}
+class B {
+  CHANG
+}
+
