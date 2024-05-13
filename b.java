@@ -1,2 +1,3 @@
-CHANGE 
-class B {}
+class B {
+  CHANGE
+}
