@@ -1,2 +1,1 @@
 CHANG
-class b {}
