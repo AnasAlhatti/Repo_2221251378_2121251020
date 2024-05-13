@@ -1,2 +1,2 @@
 CHANG
-class B {}
+class b {}
