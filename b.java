@@ -1,2 +1,2 @@
 CHANGE 
-classB{}
+class B {}
